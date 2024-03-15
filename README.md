@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ay-ush
-- 🌱 I’m currently study computer engineering
+- 🌱 I’m currently studied computer engineering
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me to bulit up my skill 
 

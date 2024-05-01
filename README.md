@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ay-ush
 - 🌱 I’m currently studied computer engineering
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me to bulit up my skill 
+
 
 <!---
 Ay-ush/Ay-ush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
